@@ -31,9 +31,9 @@ body.my-custom-class {
 3. The class name entered in the Custom Body Class field will appear as part of the <body> tag.
 
 ## Benefits
-1. Allows for dynamic customization of page styles.
-2. Enables targeted JavaScript functionality for specific pages.
-3. Easy to manage directly from the WordPress admin interface.
+- Allows for dynamic customization of page styles.
+- Enables targeted JavaScript functionality for specific pages.
+- Easy to manage directly from the WordPress admin interface.
 
 ## Compatibility
 - Tested on: WordPress 5.0 and later.
