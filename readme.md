@@ -29,6 +29,8 @@ body.my-custom-class {
 1. Visit the page where you added the custom class.
 2. Inspect the <body> tag in the browser's developer tools.
 3. The class name entered in the Custom Body Class field will appear as part of the <body> tag.
+#### Screenshot :
+![alt text](https://codereplica.com/wp-content/uploads/2025/01/Custom-body-class-wp.jpg  "Wordpress Custom body class")
 
 ## Benefits
 - Allows for dynamic customization of page styles.
