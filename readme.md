@@ -23,6 +23,7 @@ body.my-custom-class {
     background-color: #f0f0f0;
     color: #333;
 }
+```
 
 ### Step 3: View the Page
 1. Visit the page where you added the custom class.
@@ -35,5 +36,5 @@ body.my-custom-class {
 3. Easy to manage directly from the WordPress admin interface.
 
 ## Compatibility
-### Tested on: WordPress 5.0 and later.
-### Works with: Most themes that utilize the body_class filter.
+- Tested on: WordPress 5.0 and later.
+- Works with: Most themes that utilize the body_class filter.
